@@ -18,7 +18,7 @@ We help our clients build truly valuable software.
 
 Our core values drive us to deliver simple, sustainable solutions, for our clients, at pace. 
 
-The service we offer to our client's is non-prescriptive but includes:
+The service we offer to our clients is non-prescriptive but includes:
 - Full-stack software development
 - Mentoring, coaching and training
 - Team and project bootstrapping
