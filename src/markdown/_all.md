@@ -47,14 +47,16 @@ Currently, the solutions we deliver will involve most of the following:
 ## Our core values
 
 - Simplicity
-Any solution that we build has to have simplicity at its core. 
+/Comments about simplicity etc./
 
 - Honesty 
+/Comments about being honest about what we belive works and doesnt etc./
 
-- Openness 
+- Openness
+/some comments about open source and modern software development that isn't just completed for the $$$ etc/ 
 
 
-## About
+## About us
 
 Kostas
 —
@@ -64,7 +66,7 @@ Carlos
 
 Lewis
 —
-Lewis' experience is a mix of user experience design, software engineering and lean and agile product development! 
+Lewis' experience is a mix of user experience design, software engineering and lean and agile product development. 
 He began building and designing software products commercially during the dot-com boom, after co-founding a web agency in the late nineteen nineties. Since then he's worked with digital agencies, software consultancies, investment banks, investment managers, multi national media companies, insurance companies and high street retailers, helping to deliver web software at scale.
 
 Our associate network
