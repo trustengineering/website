@@ -4,7 +4,7 @@ import Link from 'gatsby-link'
 const Header = () => (
   <div
     style={{
-      background: 'rebeccapurple',
+      background: 'rgb(34, 68, 119)',
       marginBottom: '1.45rem',
     }}
   >
@@ -26,7 +26,10 @@ const Header = () => (
           Trust Engineering
         </Link>
       </h1>
-      <h2>Build. Deploy. Trust.</h2>
+      <h2 style={{
+          color: 'rgba(0,0,0, 0.5)',
+          marginTop: '4px'
+      }}>Build. Deploy. Trust.</h2>
     </div>
   </div>
 )
