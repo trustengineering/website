@@ -9,7 +9,9 @@
     "gatsby-plugin-react-helmet": "^2.0.5",
     "gatsby-source-filesystem": "^1.5.25",
     "gatsby-transformer-remark": "^1.7.34",
-    "react-helmet": "^5.2.0"
+    "raw-loader": "0.5.1",
+    "react-helmet": "^5.2.0",
+    "react-markdown": "3.3.0"
   },
   "keywords": [
     "gatsby"

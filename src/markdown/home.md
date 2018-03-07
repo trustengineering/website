@@ -1,8 +1,4 @@
----
-path: "/home"
-date: "2017-11-07"
-title: "Trust Engineering: About us"
----
+
 # Modern, solution focused, software development.
 
 At Trust Engineering, we believe that developing software is a creative, problem solving process that can't be completed in isolation. 

@@ -1,11 +1,18 @@
 import React from 'react'
+import ReactMarkdown from 'react-markdown';
+
+import homepageContent from '../markdown/home.md';
+
+const content = () => `
+# Hello
+    
+World
+`;
 
 const IndexPage = () => (
     <div id="root">
-        <blockquiote><p>Modern, product focused, software development.</p></blockquiote>
-        <p>Built using proven front-end technology, backed by Serverless infrastructure, delivered on Lean
-            principles. </p>
+        <ReactMarkdown source={homepageContent} />
     </div>
-)
+);
 
 export default IndexPage
