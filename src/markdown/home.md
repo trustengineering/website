@@ -1,39 +1,43 @@
 
 # Modern, solution focused, software development.
 
-At Trust Engineering, we believe that developing software is a creative, problem solving process that can't be completed in isolation. 
+At Trust Engineering, we believe that developing software is a creative, problem solving process. 
 
-Our services are based around the successful interaction of design, engineering and delivery. 
+Our aim is to help our clients deliver modern, innovative and valuable software, at pace.
 
-Our solutions are built using proven web technologies, backed by Serverless, cloud infrastructure, delivered on Lean principles. 
+Our services are based around the successful collaboration of design, engineering and delivery. 
+
+Our solutions are built on proven web technologies, backed by Serverless, cloud infrastructure and delivered through Lean principles. 
+
+Our turnkey, project-bootstrap product, allows our clients to; build, test and deploy new cloud based Serverless software, into production, within hours of working together.
 
 
 ## What we offer
 
-We help our clients build truly valuable software.  
-
-Our core values drive us to deliver simple and sustainable solutions at pace. 
+We help our clients build truly valuable software.  Our core values drive us to deliver simple and sustainable software solutions at pace. 
 
 The service we offer to our clients is non-prescriptive but includes:
 - Full-stack software development
 - Mentoring, coaching and training
-- Team and project bootstrapping
-- Medium size Lean and Agile transformation
-- Legacy product migration
+- A turnkey solution to deliver applications in the cloud 
+- Low maintenance Serverless infrastructure 
+- Team and project "bootstrapping"
+- Medium size Lean and Agile transformations
 - Lean, agile and engineering troubleshooting
 
-## How we do it
+## How we deliver successful software
 
-We have amassed great experience between us at Trust and it continues to grow. 
+Every project, product and client is unique. However, with well over 50 years collective experience of creating web software at scale, we've formed a successful approach to the delivery of software solutions that fits our clients needs.  
 
-We try to focus our learning on the appropriate tools and practices that deliver value quickly to our clients. 
+Currently, the solutions we deliver involve a mix of any of the following:
 
-Currently, the solutions we deliver will involve most of the following:
-
-- Lean & Agile
+- Feasibility and readiness assessments 
+- Discovery and Inception phases
+- Lean & Agile practice
 - BDD, TDD
-- Continuous Integration, Continous Delivery and Continuous Deployment
+- Continuous Integration, Continuous Delivery and Continuous Deployment
 - eXtreme Programming, Kanban, Scrum
+- automation everywhere
 - Cloud infrastructure
 - AWS, S3, Serverless, Lambda,  CloudFront
 - Ansible, Cloudformation, AWS SAM, Terraform
