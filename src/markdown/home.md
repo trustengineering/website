@@ -1,5 +1,5 @@
 
-# Modern, solution-focused software development.
+# Innovative, solution-focused software development.
 
 We understand that developing software is a creative, problem-solving process. We help our clients deliver innovative, valuable software, at pace and we do this through the successful collaboration of design, engineering, and software delivery. 
 
