@@ -3,7 +3,7 @@
 
 > We understand that developing software is a creative, problem-solving process. We help our clients deliver innovative, valuable software, at pace and we do this through the successful collaboration of design, engineering, and software delivery. 
 
-Proven web technologies help us build solutions backed by Serverless, cloud infrastructure. Lean principles are the cornerstone of our delivery approach.
+Proven web technologies help us build solutions backed by Serverless, cloud infrastructure and Lean principles are the cornerstone of our delivery approach.
 
 We enable our clients to build, test and deploy cloud-based software, into production, within hours of working with us.  We do this using our turnkey, project-bootstrap product.
 
