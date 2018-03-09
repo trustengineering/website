@@ -1,20 +1,17 @@
 
 # Modern, solution-focused software development.
 
-At Trust Engineering, we believe that developing software is a creative, problem-solving process. 
+> Developing software is a creative, problem-solving process.
+Our aim is to help our clients deliver innovative, valuable software, at pace. We do this through the successful collaboration of design, engineering, and software delivery. 
 
-We aim to help our clients deliver modern, innovative and valuable software, at pace.
+Proven web technologies help us build solutions backed by Serverless, cloud infrastructure. Lean principles are the cornerstone of our delivery approach.
 
-Our services are based on the successful collaboration of design, engineering, and delivery. 
-
-Our solutions build on proven web technologies, are backed by Serverless, cloud infrastructure and are delivered through Lean principles. 
-
-Our turnkey, project-bootstrap product, allows our clients to; build, test and deploy new cloud-based Serverless software, into production, within hours of working together.
+We enable our clients are to build, test and deploy cloud-based software, into production, within hours of working with us.  We do this using our turnkey, project-bootstrap product.
 
 
 ## What we offer
 
-We help our clients build truly valuable software.  Our core values drive us to deliver simple and sustainable software solutions at pace. 
+We help our clients build valuable software. Our core values drive us to deliver simple and sustainable software solutions at pace. 
 
 The service we offer to our clients is non-prescriptive but includes:
 - Full-stack software development
@@ -27,7 +24,7 @@ The service we offer to our clients is non-prescriptive but includes:
 
 ## How we deliver successful software
 
-Every project, product, and client is unique. However, with well over 50 years collective experience of creating web software at scale, we've formed a successful approach to the delivery of software solutions that fits our clients' needs.  
+Every project, product, and client is unique. We have formed a successful approach to the delivery of software solutions that fits our clients' needs with well over 50 years collective experience of creating web software at scale .  
 
 Currently, the solutions we deliver involve a mix of any of the following:
 
@@ -53,7 +50,7 @@ At Trust Engineering we maintain simplicity through basic technique, simple term
 
 ### Honesty
 
-Creating short feedback loops help us to develop any solutions we create. It's vital that any feedback we receive or give is beneficial to meeting the goals we're trying to achieve. Likewise, it's essential that we can form honest relationships, be honest and work every day on the basis that what everyone is honest with us.   
+Creating short feedback loops help us to develop any solutions we create. It is vital that any feedback we receive or give is beneficial to meeting the goals we are trying to achieve. Likewise, it is essential that we can form honest relationships, be honest and work every day on the basis that what everyone is honest with us.   
 
 ### Openness
 
@@ -71,20 +68,20 @@ Carlos
 Lewis
 —
 Lewis' experience is a mix of user experience design, software engineering and lean and agile product development. 
-He began building and designing software products commercially during the dot-com boom, after co-founding a web agency in the late nineteen nineties. Since then he's worked with digital agencies, software consultancies, investment banks, investment managers, multinational media companies, insurance companies and high street retailers, helping to deliver web software at scale.
+He began building and designing software products commercially during the dot-com boom, after co-founding a web agency in the late nineteen nineties. Since then he has worked with digital agencies, software consultancies, investment banks, investment managers, multinational media companies, insurance companies and high street retailers, helping to deliver web software at scale.
 
 Our associate network
 —
 Our core team's associate network stretches far and wide given the team's long-term exposure to various industries and the contractors and consultants serving the clients within them. 
 We can resource any medium size project with the right team given the right time and support.  
 
-## What we're talking about 
+## What we are talking about 
 [blog]
 
 ## Contact Us
-We are always looking to begin new partnerships. If your organisation is interested in working with us or you'd like us to answer an RFP or just come in for a chat please [email us](mailto:info@trustengineering.io)
+We are always looking to begin new partnerships. If your organisation is interested in working with us or you would like us to answer an RFP or just come in for a chat please [email us](mailto:info@trustengineering.io)
 
 [contact us form - or chatbot!]
 
 ## Join Us
-We're always interested in hearing from like-minded individuals who are interested in joining our associate network. Please, no-agencies. 
+We are always interested in hearing from like-minded individuals who are interested in joining our associate network. Please, no-agencies. 
