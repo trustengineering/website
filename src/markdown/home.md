@@ -6,7 +6,7 @@ Our aim is to help our clients deliver innovative, valuable software, at pace. W
 
 Proven web technologies help us build solutions backed by Serverless, cloud infrastructure. Lean principles are the cornerstone of our delivery approach.
 
-We enable our clients are to build, test and deploy cloud-based software, into production, within hours of working with us.  We do this using our turnkey, project-bootstrap product.
+We enable our clients to build, test and deploy cloud-based software, into production, within hours of working with us.  We do this using our turnkey, project-bootstrap product.
 
 
 ## What we offer
