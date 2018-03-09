@@ -1,8 +1,7 @@
 
 # Modern, solution-focused software development.
 
-> Developing software is a creative, problem-solving process.
-Our aim is to help our clients deliver innovative, valuable software, at pace. We do this through the successful collaboration of design, engineering, and software delivery. 
+> Developing software is a creative, problem-solving process. We aim to help our clients deliver innovative, valuable software, at pace. We do this through the successful collaboration of design, engineering, and software delivery. 
 
 Proven web technologies help us build solutions backed by Serverless, cloud infrastructure. Lean principles are the cornerstone of our delivery approach.
 
@@ -24,7 +23,7 @@ The service we offer to our clients is non-prescriptive but includes:
 
 ## How we deliver successful software
 
-Every project, product, and client is unique. We have formed a successful approach to the delivery of software solutions that fits our clients' needs with well over 50 years collective experience of creating web software at scale .  
+Every project, product, and client is unique. We have formed a successful approach to the delivery of software solutions that fits our clients' needs with well over 50 years collective experience of creating web software at scale.  
 
 Currently, the solutions we deliver involve a mix of any of the following:
 
